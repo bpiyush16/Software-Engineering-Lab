@@ -1,0 +1,7 @@
+{
+  "name": "DocRoute AI",
+  "description": "An intelligent automated document classification and routing system powered by Gemini 3. Process, categorize, and extract data from documents instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
